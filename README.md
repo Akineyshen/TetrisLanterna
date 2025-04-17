@@ -3,7 +3,6 @@
 ![Library](https://img.shields.io/badge/Library-Lantern-brightgreen?style=for-the-badge&logo=librarything&logoColor=F0931C&color=F0931C&labelColor=FCFCFC)
 ![Size](https://img.shields.io/github/repo-size/Akineyshen/TetrisLanterna?label=Size&style=for-the-badge&color=F0931C&labelColor=FCFCFC)
 ![Last Commit](https://img.shields.io/github/last-commit/Akineyshen/TetrisLanterna?label=Last%20Commit&style=for-the-badge&color=F0931C&labelColor=FCFCFC)
-![Progress](https://img.shields.io/badge/Progress-Completed-brightgreen?style=for-the-badge&color=2FBE7C&labelColor=FCFCFC)
 
 ## Features
 - **Keyboard Controls**: Move and rotate Tetris blocks using arrow keys.
