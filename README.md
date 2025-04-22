@@ -34,8 +34,8 @@
    ```
 2. Navigate to the project directory:
    ```bash
-    cd TetrisLanterna
-    ```
+   cd TetrisLanterna
+   ```
 3. Build the project using Maven:
     ```bash
     mvn clean install
